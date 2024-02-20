@@ -120,7 +120,7 @@ cardio_btns.forEach(btn => {
 })
 
 // timer
-const deadline = "2024-02-20 12:52"
+const deadline = "2024-11-27 00:00"
 
 function getRemainingTime(endTime) {
     const t = Date.parse(endTime) - Date.parse(new Date())
